@@ -4,8 +4,7 @@
 
 Movie Explorer este o aplicație web interactivă pentru explorarea și descoperirea filmelor, bazată pe API-ul TMDB (The Movie Database). Aplicația permite utilizatorilor să caute filme, să vizualizeze detalii, să adauge filme la o listă de urmărire personală și să scrie recenzii.
 
-## Link demonstrativ
-[Link video - prezentare proiect]
+
 
 ## Cuprins
 
@@ -237,20 +236,6 @@ movie-explorer/
     ├── package.json       # Dependențe frontend
     └── .env               # Variabile de mediu (negit)
 ```
-
-## Capturi ecran
-
-### Pagina principală
-![Pagina principală](link_catre_captura_ecran)
-
-### Detalii film
-![Detalii film](link_catre_captura_ecran)
-
-### Lista de urmărire
-![Lista de urmărire](link_catre_captura_ecran)
-
-### Sistem de recenzii
-![Recenzii](link_catre_captura_ecran)
 
 ## Referințe
 
